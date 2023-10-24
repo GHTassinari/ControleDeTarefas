@@ -1,0 +1,3 @@
+;
+Trabalho de Programação;24/10/2023
+Trabalho de Banco de Dados;27/10/2023
